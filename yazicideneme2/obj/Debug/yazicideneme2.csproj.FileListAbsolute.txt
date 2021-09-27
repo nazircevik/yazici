@@ -8,3 +8,13 @@ C:\Users\Nazir\source\repos\yazicideneme2\yazicideneme2\obj\Debug\yazicideneme2.
 C:\Users\Nazir\source\repos\yazicideneme2\yazicideneme2\obj\Debug\yazicideneme2.csproj.CoreCompileInputs.cache
 C:\Users\Nazir\source\repos\yazicideneme2\yazicideneme2\obj\Debug\yazicideneme2.exe
 C:\Users\Nazir\source\repos\yazicideneme2\yazicideneme2\obj\Debug\yazicideneme2.pdb
+C:\Users\Nazir\Desktop\yazici\yazicideneme2\bin\Debug\yazicideneme2.exe.config
+C:\Users\Nazir\Desktop\yazici\yazicideneme2\bin\Debug\yazicideneme2.exe
+C:\Users\Nazir\Desktop\yazici\yazicideneme2\bin\Debug\yazicideneme2.pdb
+C:\Users\Nazir\Desktop\yazici\yazicideneme2\obj\Debug\yazicideneme2.csproj.AssemblyReference.cache
+C:\Users\Nazir\Desktop\yazici\yazicideneme2\obj\Debug\yazicideneme2.Form1.resources
+C:\Users\Nazir\Desktop\yazici\yazicideneme2\obj\Debug\yazicideneme2.Properties.Resources.resources
+C:\Users\Nazir\Desktop\yazici\yazicideneme2\obj\Debug\yazicideneme2.csproj.GenerateResource.cache
+C:\Users\Nazir\Desktop\yazici\yazicideneme2\obj\Debug\yazicideneme2.csproj.CoreCompileInputs.cache
+C:\Users\Nazir\Desktop\yazici\yazicideneme2\obj\Debug\yazicideneme2.exe
+C:\Users\Nazir\Desktop\yazici\yazicideneme2\obj\Debug\yazicideneme2.pdb
